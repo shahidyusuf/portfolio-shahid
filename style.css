@@ -1,0 +1,327 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #363543;
+    width: 100%;
+}
+.mcontainer{
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 152px;
+}
+.fcontainer{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    padding-left: 160 px;
+}
+.smile{
+    color: yellow;
+    font-size: 45px;
+}
+.scontainer{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    font-size: 15px;
+    color: white;
+    margin-left: -328px;
+    padding-left: 152px;
+ }
+.tcontainer{
+    display: flex;
+    margin-right: 265px;
+    justify-content: space-around;
+    width: 10%;    
+    color: white;
+    font-size: 20px;
+}
+.fa-dribbble{
+    color: white;
+    font-size: 200px;
+}
+.fa-linkedin{
+    color: white;
+    font-size: 40px;
+}
+.fa-align-left{
+    color: white;
+}
+.second-container{
+    color: white;
+    margin-top: 90px;
+    padding-left: 165px;
+}
+.im{
+    font-size: 40px;
+}
+.shahid{
+    margin-top: 20px;
+    font-size: 60px;
+}
+.underline{
+    margin-top: 15px;
+    height: 5px;
+    width: 245px;
+    background-color: yellow;
+}
+.experiance{
+    margin-top: 45px;
+    font-size: 15px;
+}
+.round-color{
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    border-radius: 360%;
+
+}
+.picture{
+    justify-content: center;
+    background-color: #292933;
+    width: 400px;
+    height: 400px;
+    border-radius: 360%;
+    align-items: center;
+    position: absolute;
+    right: 570px;
+    top: 155px;
+    position: absolute;
+    z-index: -1;
+}
+.pic{
+    position: absolute;
+    right: 48px;
+    top: -42px;
+    width: 300px;
+    height: 450px;
+}
+.third-container{
+    color: white;
+    position: absolute;
+    right: 422px;
+    top: 163px;
+}
+    .oservice{
+        font-size: 15px;
+    }
+    .service{
+        font-size: 20px;
+    }
+    .show{
+        color: yellow;
+        margin-top: 16px;
+    }
+.arrow{
+    position: absolute;
+    left: 81px;
+    color: yellow;
+    margin-top: -16px;
+}
+.logo{
+    display: flex;
+    margin-top: 17px;
+    font-size: 25px;
+    color: yellow;
+    justify-content: space-evenly;
+}
+.four-container{
+    display: flex;
+    background-color: #3d3c4b;
+    height: 100px;
+    width: 76%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin: 0px auto;
+    position: absolute;
+    top: 465px;
+    right: 200px;
+  }
+.center-container{
+    background-color: #292933;
+    padding: 15px 5px;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+    display: flex;
+    height: 30px;
+    width: 20%;
+    padding: 15px 5px;
+}
+.second-main-container{
+    background-color: #292933;
+    color: white;
+    margin-top: 25px;
+    padding-left: 30px;
+}
+.smcontainer{
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 150px;
+    margin-top: 78px;
+}
+.smfcontainer{
+    padding-left: 150px;
+}
+.twofifty{
+    color: yellow;
+}
+.text{
+    color: white;
+}
+.smscontainer{
+    display: flex;
+    padding-left: 150px;
+    /* border: 2px solid; */
+}
+.hundred-text{
+    color: yellow;
+    margin-left: 85px;
+}
+.thirty{
+    color: yellow;
+}
+.smtcontainer{
+    padding-left: 150px;
+    display: flex;
+   }
+.ten{
+    color: yellow;
+    margin-left: 101px;
+}
+.aero{
+    color: yellow;
+    margin-left: 100px;
+    margin-top: 14px;
+}
+.sm-four-container{
+    margin-left: 877px;
+    margin-top: -271px;
+}
+
+.uiux{
+    display: inline-flex;
+}
+ul{
+    list-style: none;
+}
+.pixs{
+    height: 80px;
+    width: 105px;   
+}
+.aero-one{
+    color: yellow;
+    margin-left: 100px;
+    margin-top: 14px;
+}
+.line-one{
+    height: 2px;
+    width: 308px;
+    background-color: yellow;
+    margin-top: 90px;
+    margin-left: -312px;
+}
+.front{
+    display: flex;
+    margin-top: -3px;
+}
+.aero-front{
+    color: yellow;
+    margin-top: -3px;
+    margin-top: 14px;    
+    margin-left: 69px;
+}
+.line-front{
+    height: 2px;
+    width: 313px;
+    background-color: yellow;
+    margin-top: 90px;
+    margin-left: -311px;
+}
+.mobile{
+    display: flex;
+    margin-top: -3px;
+}
+.aero-mobile{
+    color: yellow;
+    margin-left: 58px;
+    margin-top: 14px;
+}
+.line-mobile{
+    height: 2px;
+    width: 313px;
+    background-color: yellow;
+    margin-top: 90px;
+    margin-left: -311px;
+}
+.box{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+}
+.grey{
+    height: 600px;
+    width: 1000px;
+    background-color: grey;
+}
+.raw{
+    display: flex;
+    padding: 50px 5% 0;
+    column-gap: 50px;
+    padding-left: 143px;
+    
+}
+
+.colum-one{
+    border: 2px solid #363543;
+    height: 250px;
+    width: 25.33%;
+    background-color: #363543;
+}
+.style{
+    margin-top: 20px;
+}
+.ux{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 51px;
+}
+.colum-two{
+    border: 2px solid #363543;
+    height: 250px;
+    width: 25.33%;
+    background-color: #363543;
+}
+.web{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 51px;
+}
+.colum-three{
+    border: 2px solid #363543;
+    height: 250px;
+    width: 25.33%;
+    background-color: #363543;
+}
+.mob{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 51px;
+}
+.colum-one ul i{
+    font-size: 18px;
+    color: yellow;
+}
+.colum-two ul i{
+    font-size: 20px;
+    color: yellow;
+}
+.colum-three ul i{
+    font-size: 22px;
+    color: yellow;
+}
